@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-leaflet",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Adds support for the leaflet.js mapping library",
   "main": "index.js",
   "scripts": {
@@ -14,15 +14,42 @@
     "leaflet",
     "leaflet.js"
   ],
-  "author": "Chris Santero",
+  "author": {
+    "name": "Chris Santero"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/csantero/ember-cli-leaflet.git"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "broccoli-merge-trees": "^0.1.4",
     "broccoli-static-compiler": "^0.1.4"
-  }
+  },
+  "gitHead": "afec5c1a8b9be91bbdfba8cb0441963eedb7f4c5",
+  "bugs": {
+    "url": "https://github.com/csantero/ember-cli-leaflet/issues"
+  },
+  "homepage": "https://github.com/csantero/ember-cli-leaflet",
+  "_id": "ember-cli-leaflet@0.0.4",
+  "_shasum": "b1617c0b6bab845507ab053f2d415ac0461ee7e8",
+  "_from": "ember-cli-leaflet@",
+  "_npmVersion": "1.4.21",
+  "_npmUser": {
+    "name": "csantero",
+    "email": "chris@solveitsimply.com"
+  },
+  "maintainers": [
+    {
+      "name": "csantero",
+      "email": "chris@solveitsimply.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b1617c0b6bab845507ab053f2d415ac0461ee7e8",
+    "tarball": "http://registry.npmjs.org/ember-cli-leaflet/-/ember-cli-leaflet-0.0.4.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ember-cli-leaflet/-/ember-cli-leaflet-0.0.4.tgz",
+  "readme": "ERROR: No README data found!"
 }
